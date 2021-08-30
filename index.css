@@ -1,0 +1,52 @@
+body {
+    background: green;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 30px;
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 70px;
+    font-weight:bolder;
+}
+
+#message-el {
+    font-style: italic;
+    font-size: 40px;
+}
+
+button {
+    padding: 12px 24px;
+    margin: 8px 16px;
+    background-color: goldenrod;
+    font-weight: bolder;
+    border-color: green;
+    color: crimson;
+
+}
+
+p {
+    font-size: 25px;
+}
+
+.dealer {
+    color: red;
+}
+
+.pass-btn {
+    background-color: crimson;
+    color: greenyellow;
+}
+
+.container {
+    display: flex;
+}
+
+.cols {
+    margin: auto;
+    max-width: 300px;
+    text-align: left;
+    text-align-last: auto;
+}
